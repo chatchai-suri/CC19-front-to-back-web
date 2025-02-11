@@ -68,3 +68,27 @@ npm i react-router
 
 
 ## step 5 install sweetalert2
+
+
+## Step 6 install react-hook-form
+https://
+```bash
+npm install react-hook-form
+```
+
+## Step 7 install lucide 
+
+```bash
+npm install lucide-react
+```
+
+## Step 8 validate with Zod
+```bash
+npm install @hookform/resolvers
+npm i zod
+```
+
+## step 7 Global state with Zustand
+```bash
+npm install zustand
+```
